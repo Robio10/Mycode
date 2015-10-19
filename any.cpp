@@ -89,5 +89,6 @@ int main(){
 	for(int i=0;i<V;i++)
 		G.addedge(0,i+1);
 	G.DFS(0);
+	cout<<"Nahi \n";
 	return 0;
 }
